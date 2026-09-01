@@ -8,16 +8,16 @@
         icon_saturation="0.5"
         widget_emboss="#00000008"
         link="#6fa9e6ff"
-        editor_border="#808080"
+        editor_border="#888888"
         editor_outline="#73737315"
-        editor_outline_active="#57a7e080"
+        editor_outline_active="#57a7e0cc"
         widget_text_cursor="#3399e6"
         panel_roundness="0"
-        panel_header="#c7c7c7ff"
-        panel_title="#2e2e2e"
-        panel_text="#2e2e2e"
+        panel_header="#ccccccff"
+        panel_title="#262626"
+        panel_text="#262626"
         panel_back="#d4d4d4ff"
-        panel_sub_back="#0000000f"
+        panel_sub_back="#0000000d"
         panel_outline="#ffffff11"
         panel_active="#57a7e0ff"
         transparent_checker_primary="#333333"
@@ -412,16 +412,16 @@
         </asset_shelf>
         <channels>
           <ThemeRegionsChannels
-            back="#1d1d1d"
-            text="#b8b8b8"
-            text_selected="#ffaf23"
+            back="#d4d4d4"
+            text="#262626"
+            text_selected="#57a7e0"
             >
           </ThemeRegionsChannels>
         </channels>
         <scrubbing>
           <ThemeRegionsScrubbing
-            back="#1d1d1dff"
-            text="#808080"
+            back="#c8c8c8ff"
+            text="#262626"
             time_marker="#ffffff80"
             time_marker_selected="#ffffffff"
             >
@@ -429,8 +429,8 @@
         </scrubbing>
         <sidebars>
           <ThemeRegionsSidebars
-            back="#30303000"
-            tab_back="#18181800"
+            back="#ccccccff"
+            tab_back="#bfbfbfff"
             >
           </ThemeRegionsSidebars>
         </sidebars>
@@ -556,8 +556,8 @@
             title="#303030"
             text="#ffffff"
             text_hi="#ffffff"
-            header="#dfdfdf00"
-            header_text="#303030"
+            header="#dfdfdfff"
+            header_text="#262626"
             header_text_hi="#ffffff"
             >
             <gradients>
@@ -586,8 +586,8 @@
             title="#303030"
             text="#303030"
             text_hi="#ffffff"
-            header="#d4d4d4ff"
-            header_text="#303030"
+            header="#dfdfdfff"
+            header_text="#262626"
             header_text_hi="#ffffff"
             >
           </ThemeSpaceGeneric>
@@ -637,8 +637,8 @@
             title="#303030"
             text="#303030"
             text_hi="#ffffff"
-            header="#d4d4d4ff"
-            header_text="#303030"
+            header="#dfdfdfff"
+            header_text="#262626"
             header_text_hi="#ffffff"
             >
           </ThemeSpaceGeneric>
@@ -663,8 +663,8 @@
             title="#303030"
             text="#303030"
             text_hi="#000000"
-            header="#d4d4d4ff"
-            header_text="#303030"
+            header="#dfdfdfff"
+            header_text="#262626"
             header_text_hi="#ffffff"
             >
           </ThemeSpaceGeneric>
@@ -741,8 +741,8 @@
             title="#303030"
             text="#303030"
             text_hi="#ffffff"
-            header="#d4d4d4ff"
-            header_text="#303030"
+            header="#dfdfdfff"
+            header_text="#262626"
             header_text_hi="#303030"
             >
           </ThemeSpaceGeneric>
@@ -755,12 +755,12 @@
         >
         <space>
           <ThemeSpaceGeneric
-            back="#d9d9d9"
+            back="#d4d4d4"
             title="#303030"
-            text="#303030"
+            text="#262626"
             text_hi="#ffffff"
-            header="#d4d4d4ff"
-            header_text="#303030"
+            header="#dfdfdfff"
+            header_text="#262626"
             header_text_hi="#ffffff"
             >
           </ThemeSpaceGeneric>
@@ -798,14 +798,14 @@
     </text_editor>
     <node_editor>
       <ThemeNodeEditor
-        grid="#000000"
+        grid="#a6a6a6"
         node_outline="#ffffff26"
         node_selected="#ed5700"
         node_active="#ffffff"
         wire="#232323ff"
         wire_inner="#808080"
         wire_select="#ffffffb3"
-        node_backdrop="#ffffffff"
+        node_backdrop="#d4d4d4ff"
         converter_node="#66c4ff"
         color_node="#ccb83d"
         group_node="#5f943c"
@@ -832,11 +832,11 @@
         >
         <space>
           <ThemeSpaceGeneric
-            back="#6d6d6d"
+            back="#c4c4c4"
             title="#313131"
             text="#000000"
             text_hi="#161616"
-            header="#d9d9d9ff"
+            header="#dfdfdfff"
             header_text="#262626"
             header_text_hi="#ffffff"
             >
@@ -847,7 +847,7 @@
     <outliner>
       <ThemeOutliner
         match="#b9dce1"
-        selected_highlight="#90bdd6"
+        selected_highlight="#57a7e0"
         active="#57a7e0"
         selected_object="#ffffff"
         active_object="#ffff00"
@@ -860,8 +860,8 @@
             title="#303030"
             text="#303030"
             text_hi="#ffffff"
-            header="#d4d4d4ff"
-            header_text="#303030"
+            header="#dfdfdfff"
+            header_text="#262626"
             header_text_hi="#ffffff"
             >
           </ThemeSpaceGeneric>
@@ -902,12 +902,12 @@
         >
         <space>
           <ThemeSpaceGeneric
-            back="#d9d9d9"
-            title="#303030"
-            text="#303030"
-            text_hi="#ffffff"
-            header="#d4d4d4ff"
-            header_text="#303030"
+            back="#d4d4d4"
+            title="#262626"
+            text="#262626"
+            text_hi="#000000"
+            header="#dfdfdfff"
+            header_text="#262626"
             header_text_hi="#ffffff"
             >
           </ThemeSpaceGeneric>
@@ -959,8 +959,8 @@
             title="#303030"
             text="#ffffff"
             text_hi="#ffffff"
-            header="#d4d4d4ff"
-            header_text="#303030"
+            header="#dfdfdfff"
+            header_text="#262626"
             header_text_hi="#ffffff"
             >
           </ThemeSpaceGeneric>
@@ -971,12 +971,12 @@
       <ThemeTopBar>
         <space>
           <ThemeSpaceGeneric
-            back="#d9d9d9"
+            back="#d4d4d4"
             title="#303030"
-            text="#303030"
+            text="#262626"
             text_hi="#ffffff"
             header="#d4d4d4ff"
-            header_text="#303030"
+            header_text="#262626"
             header_text_hi="#ffffff"
             >
           </ThemeSpaceGeneric>
@@ -987,12 +987,12 @@
       <ThemeStatusBar>
         <space>
           <ThemeSpaceGeneric
-            back="#d9d9d9"
+            back="#cccccc"
             title="#303030"
-            text="#303030"
+            text="#333333"
             text_hi="#ffffff"
-            header="#d4d4d4ff"
-            header_text="#303030"
+            header="#ccccccff"
+            header_text="#333333"
             header_text_hi="#ffffff"
             >
           </ThemeSpaceGeneric>
