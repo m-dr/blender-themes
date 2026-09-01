@@ -12,6 +12,7 @@ A curated collection of customized, high-contrast, and tuned themes for **Blende
 | :--- | :--- | :--- | :--- |
 | **DRCL (MD Mod)** | `drcl_md` | Blender 5.2+ | Customized from [DRCL](https://extensions.blender.org/themes/theme-drcl/) by Paul Kotelevets (1D_Inc) |
 | **Midnight (MD Mod)** | `midnight_md` | Blender 5.2+ | Customized from [Midnight](https://github.com/kame404/Blender-Themes) by kame404 |
+| **Metasequoia (MD Mod)** | `metaseq_md` | Blender 5.2+ | Customized Metasequoia-style light theme for Blender 5.2+ |
 
 ---
 
@@ -23,7 +24,7 @@ Add the central repository in Blender:
 Then search for any theme in **Preferences > Get Extensions** (filter by *Themes*) and click **Install**.
 
 ### Method B: Install from Disk (.zip)
-1. Download any theme `.zip` (e.g. `drcl_md-1.0.0.zip` or `midnight_md-1.0.0.zip`) from the [Releases](https://github.com/m-dr/blender-themes/releases) page.
+1. Download any theme `.zip` (e.g. `drcl_md-1.0.0.zip`, `midnight_md-1.0.0.zip`, or `metaseq_md-1.0.0.zip`) from the [Releases](https://github.com/m-dr/blender-themes/releases) page.
 2. In Blender: **Preferences > Get Extensions > Install from Disk...**
 3. Select the `.zip` file. The theme is automatically activated in **Preferences > Themes**.
 

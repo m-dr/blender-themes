@@ -1,0 +1,13 @@
+schema_version = "1.0.0"
+
+id = "metaseq_md"
+version = "1.0.0"
+name = "Metasequoia (MD Mod)"
+tagline = "Metasequoia-inspired light neutral grey theme tuned for Blender 5.2+"
+maintainer = "MD <m-dr>"
+type = "theme"
+blender_version_min = "5.2.0"
+license = [
+  "SPDX:GPL-3.0-or-later",
+]
+website = "https://github.com/m-dr/blender-themes"
