@@ -1,0 +1,12 @@
+# Python
+__pycache__/
+*.py[cod]
+
+# Build & Dist
+dist/
+build/
+*.zip
+
+# OS
+.DS_Store
+Thumbs.db

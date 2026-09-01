@@ -1,0 +1,13 @@
+schema_version = "1.0.0"
+
+id = "drcl_md"
+version = "1.0.0"
+name = "DRCL (MD Mod)"
+tagline = "Dracula-inspired dark theme tuned for Blender 5.2+ (based on DRCL by 1D_Inc / Paul Kotelevets)"
+maintainer = "MD <m-dr>"
+type = "theme"
+blender_version_min = "5.2.0"
+license = [
+  "SPDX:GPL-3.0-or-later",
+]
+website = "https://github.com/m-dr/blender-themes"
