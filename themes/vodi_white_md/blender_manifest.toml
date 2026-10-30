@@ -1,7 +1,7 @@
 schema_version = "1.0.0"
 
 id = "vodi_white_md"
-version = "1.0.0"
+version = "1.0.1"
 name = "Vodi White (MD Mod)"
 tagline = "Clean modern high-contrast white light theme tuned for Blender 5.2+"
 maintainer = "MD <m-dr>"

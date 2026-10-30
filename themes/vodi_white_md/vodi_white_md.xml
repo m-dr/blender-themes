@@ -450,7 +450,7 @@
             channel="#999999ff"
             channel_selected="#60c04044"
             keyframe="#e8e8e8"
-            keyframe_selected="#ffbe33"
+            keyframe_selected="#d96600"
             keyframe_extreme="#e8b3cc"
             keyframe_extreme_selected="#f28080"
             keyframe_breakdown="#b3dbe8"
@@ -554,8 +554,8 @@
         <space>
           <ThemeSpaceGradient
             title="#172033"
-            text="#172033"
-            text_hi="#ffffff"
+            text="#111827"
+            text_hi="#000000"
             header="#eceef000"
             header_text="#172033"
             header_text_hi="#ffffff"

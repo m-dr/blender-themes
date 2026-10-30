@@ -14,6 +14,7 @@ A curated collection of customized, high-contrast, and tuned themes for **Blende
 | **Midnight (MD Mod)** | `midnight_md` | Blender 5.2+ | Customized from [Midnight](https://github.com/kame404/Blender-Themes) by kame404 |
 | **Metasequoia (MD Mod)** | `metaseq_md` | Blender 5.2+ | Customized Metasequoia-style light theme for Blender 5.2+ |
 | **Vodi White (MD Mod)** | `vodi_white_md` | Blender 5.2+ | Clean modern high-contrast white light theme tuned for Blender 5.2+ |
+| **Rain Cloud (MD Mod)** | `rain_cloud_md` | Blender 5.2+ | Soft silver skies theme tuned for high contrast in Blender 5.2+ |
 
 ---
 
